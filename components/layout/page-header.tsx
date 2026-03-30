@@ -1,0 +1,1 @@
+// Componente que representa el encabezado de la página, que se muestra en la parte superior.
